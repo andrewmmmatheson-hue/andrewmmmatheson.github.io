@@ -8,7 +8,8 @@ middle_name: M.M.
 last_name: Matheson
 contact_note: >
   am5835@columbia.edu
-description: > I am a neuroscientist interested in how animals adapt their behaviour to their environment. I am currrently a postdoctoral research scientist in Maria Tosches' lab at Columbia University in the department of Biological Sciences.
+description: > 
+  I am a neuroscientist interested in how animals adapt their behaviour to their environment. I am currrently a postdoctoral research scientist in Maria Tosches' lab at Columbia University in the department of Biological Sciences.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
