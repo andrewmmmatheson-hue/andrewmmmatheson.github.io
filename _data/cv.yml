@@ -6,14 +6,14 @@ cv:
   image: ""
   summary: >
   I am a neuroethologist interested in how animals achieve similar behaviours for survival despite inhabiting
-vastly different habitats and possessing distinct neural circuit architectures. My current research focuses on
-the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and
-terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I
-aim to understand the extent to which nervous systems can be flexible in this species and the morphological,
-behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the
-newt’s unique plasticity, regenerative capacity and its key evolutionary position as a sister group to all other
-terrestrial vertebrates to understand the flexibility of the nervous system over evolution. My long term goal is
-to develop the newt into a full-fledged model for neuroethology and comparative systems neuroscience. 
+  vastly different habitats and possessing distinct neural circuit architectures. My current research focuses on
+  the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and
+  terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I
+  aim to understand the extent to which nervous systems can be flexible in this species and the morphological,
+  behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the
+  newt’s unique plasticity, regenerative capacity and its key evolutionary position as a sister group to all other
+  terrestrial vertebrates to understand the flexibility of the nervous system over evolution. My long term goal is
+  to develop the newt into a full-fledged model for neuroethology and comparative systems neuroscience. 
 
   social_networks:
     - network: X
@@ -29,8 +29,6 @@ to develop the newt into a full-fledged model for neuroethology and comparative 
         Degree: PhD
         start_date: 2015
         end_date: 2021
-        Thesis: "A neural circuit for wind-guided olfactory navigation"
-        Advisor: Katherine I. Nagel
 
 
       - institution: McGill University
@@ -48,48 +46,42 @@ to develop the newt into a full-fledged model for neuroethology and comparative 
 
     Publications:
       - title: Iberian ribbed newts
-        authors: 
-          - "Matheson AMM, Chua NJ, Tosches MA"
+        authors: "Matheson AMM, Chua NJ, Tosches MA"
         publisher: Current Biology
         releaseDate: 2025
         url: https://doi.org/10.1016/j.cub.2024.11.062
         summary:
 
       - title: A neural circuit for wind-guided olfactory navigation
-        authors: 
-          - "Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI"
+        authors: "Matheson AMM, Lanz AJ, Currier TA, Licata AM, Syed MH, Nagel KI"
         publisher: Nature Communications
         releaseDate: 2022
         url: https://doi.org/10.1038/s41467-022-32247-7
         summary: 
         
       - title:  A population of central complex neurons promoting airflow-guided orientation in Drosophila
-        authors: 
-          - "Currier TA, Matheson AMM, Nagel KI"
+        authors: "Currier TA, Matheson AMM, Nagel KI"
         publisher: eLife
         releaseDate: 2020
         url: https://doi.org/10.7554/eLife.61510
         summary: 
 
       - title:  Central neurons encoding wind direction in Drosophila
-        authors: 
-          - "Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI"
+        authors: "Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, Nagel KI"
         publisher: Neuron
         releaseDate: 2019
         url: https://doi.org/10.1016/j.neuron.2019.03.012
         summary: 
         
       - title:  Cortical control of vocal interaction in neotropical singing mice
-        authors: 
-          - "Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA"
+        authors: "Okobi DE*, Banerjee A*, Matheson AMM, Phelps SM, Long MA"
         publisher: Science
         releaseDate: 2019
         url: https://doi.org/10.1126/science.aau9480
         summary: 
 
       - title:  Relationship between the sequencing and timing of vocal motor elements in birdsong
-        authors: 
-          - "Matheson AMM, Sakata JT"
+        authors: "Matheson AMM, Sakata JT"
         publisher: Plos One
         releaseDate: 2015
         url: https://doi.org/10.1126/science.aau9480
